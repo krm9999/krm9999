@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krm9999
 - 👀 I’m interested in learning how to be a software engineer.
-- 🌱 I’m currently learning C++, Java and Python
+- 🌱 I’m currently earning my Bachelor's in Computer Science at Southern New Hampshire University (SNHU).
 - 💞️ I’m looking to collaborate on whatever comes my way.
 - 📫 How to reach me : I'll let you know in the future!
 
